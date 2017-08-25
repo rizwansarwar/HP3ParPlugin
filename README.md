@@ -1,7 +1,9 @@
 # HP 3PAR UCS Director Plugin
-This is an Open Automation plug-in which adds 3PAR support to Cisco UCS Director 5.4 or later.
+This plugin is forked from **[HP3ParPlugin](https://github.com/CiscoUKIDCDev/HP3ParPlugin)** developed by Matt Day. This fork indents to add some addional settings to existing task as the HP 3Par API has evolved. Below is the original realease information from Matt Day.
 
-You can **[download the latest releases here](https://github.com/CiscoUKIDCDev/HP3ParPlugin/releases)**.
+
+
+This is an Open Automation plug-in which adds 3PAR support to Cisco UCS Director 5.4 or later.
 
 The plugin is considered largely feature complete. Releases may be less often, but it will be maintained and tested with future UCS Director releases.
 
